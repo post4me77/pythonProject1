@@ -1,0 +1,23 @@
+.idea
+.pytest_cache
+.__pycache__
+__pycache__/
+/logs/*
+venv/
+report_allure/
+
+# Distribution / packaging
+.venv
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
